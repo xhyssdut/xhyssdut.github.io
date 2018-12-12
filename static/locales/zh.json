@@ -1,28 +1,28 @@
 {
   "website":{
-    "title": "杰克的博客"
+    "title": "AaaHhhXin的博客"
   },
   "nav":{
     "home": "首页",
     "about_me": "关于我",
     "skills": "技能",
     "projects": "项目",
-    "career": "职业",
-    "blog": "博客",
+    "career": "职业经历",
+    "blog": "我的博文",
     "link": "友情链接"
   },
   "about_me":{
     "about_me": "关于我",
-    "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "des": "专注于Java服务端开发。研究算法数据结构，企业级搜索，审批等业务模块。轻度主机玩家。"
   },
   "skills":{
     "my_skills": "我的技能"
   },
   "projects":{
     "my_projects": "我的项目",
-    "jalpc": "这是一个我自己的GitHub项目.",
+    "jalpc": "移动一体化办公平台，我主要负责其中的审批模块，搜索模块，我还协助开发过im模块，hrm模块，维护过多个其他模块。",
     "cpython": "这是一个别人的GitHub项目.",
-    "familycode": "这是另外一个项目."
+    "familycode": "这是另外一个项目.",
   },
   "career":{
     "university": "本科：大连理工大学-软件工程",
@@ -41,5 +41,4 @@
     "link": "友情链接",
     "view": "次访问"
   }
-
 }
