@@ -25,23 +25,14 @@
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "university": "Dalian University Of Technology",
+    "university_desc": "I studied at Dalian University of Technology, with a grade point of 3.7 and won the title of outstanding provincial graduate.",
+    "university_date": "Sept. 2013 - June. 2017",
+    "university_job":"Student",
+    "company_wbg": "Mobile Work",
+    "company_wbg_desc": "I mainly develop an approval and search module for an integrated mobile office platform. I am also responsible for the maintenance of other modules such as the IM module.",
+    "company_wbg_date": "Jul. 20168",
+    "company_wbg_job": "Intern -> Back-End Developer"
   },
   "blog":{
     "my_blog": "My Blog"

@@ -25,23 +25,14 @@
     "familycode": "这是另外一个项目."
   },
   "career":{
-    "my_career": "职业生涯",
-    "nextcode": "Nextcode",
-    "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
-    "nextcode_date": "2016年4月",
-    "nextcode_job": "Python工程师",
-    "netease": "网易游戏",
-    "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
-    "netease_date": "2015年6月",
-    "netease_job": "运维开发工程师",
-    "ucloud": "Ucloud",
-    "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
-    "ucloud_date": "2013年9月",
-    "ucloud_job": "运维开发工程师",
-    "college": "毕业",
-    "college_des": "2013年7月大学毕业，开始了IT职业生涯",
-    "college_date": "2013年7月",
-    "college_job": "学生"
+    "university": "本科：大连理工大学-软件工程",
+    "university_desc": "我曾就读于大连理工大学，绩点3.7，获得了省优秀毕业生的称号。",
+    "university_date": "2013年-2017年",
+    "university_job":"学生",
+    "company_wbg": "奇鱼时代科技有限公司",
+    "company_wbg_desc": "我主要开发一款一体化移动办公平台，负责开发过IM模块，审批模块，搜索模块，并且维护过多个其他模块。",
+    "company_wbg_date": "2016年7月",
+    "company_wbg_job": "服务端实习生 -> 服务端开发工程师"
   },
   "blog":{
     "my_blog": "我的博客"

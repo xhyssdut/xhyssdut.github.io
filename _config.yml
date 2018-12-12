@@ -13,8 +13,8 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: XinHongyang  # Be used at blog posts' author.
   first_name: Xin  # Be used at index page about me section.
-  last_name: Hongyang  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  last_name: Hongyang  # Be used at index page abouXt me section.
+  avatar: /static/assets/img/landing/avatar.jpeg  # upload your avatar at directory and edit it.
   github_username: xhyssdut  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-java
+    - name: icon-mongodb
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-mysql
+    - name: icon-spring
   desc: Java Back-End Programmer.  # Describe yourself.
 
 # comment

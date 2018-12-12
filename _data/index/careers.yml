@@ -1,29 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: 奇鱼时代科技有限公司
+    i18n: company_wbg
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: 我主要开发一款一体化移动办公平台的审批和搜索模块，我还负责了人事管理模块等其他模块的维护。
+    i18n: company_wbg_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: 2016年7月
+    i18n: company_wbg_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: 服务端开发工程师
+    i18n: company_wbg_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: 大连理工大学-软件工程
+    i18n: university
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: 我曾就读于大连理工大学，绩点3.7，获得了省优秀毕业生的称号。
+    i18n: university_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: 2013年-2017年
+    i18n: university_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: 学生
+    i18n: university_job
   icon: fa-plus-square
