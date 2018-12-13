@@ -41,6 +41,20 @@ h3, h4, h5 {
   font-weight: 600;
 }
 
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  border:1px solid #ff696e;
+}
+
+th{
+  border:1px solid #ff696e;
+}
+
+td{
+  border:1px solid #ff696e;
+}
+
 .nav {
   > li > a {
     color: #a7b1c2;
