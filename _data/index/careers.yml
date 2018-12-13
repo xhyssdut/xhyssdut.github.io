@@ -13,7 +13,7 @@
   job:
     detail: 服务端开发工程师
     i18n: company_wbg_job
-  icon: fa-plus-square
+  icon: fa-building
 
 - name:
     detail: 大连理工大学-软件工程
@@ -27,4 +27,4 @@
   job:
     detail: 学生
     i18n: university_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap

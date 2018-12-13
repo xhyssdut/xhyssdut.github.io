@@ -13,16 +13,14 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "Focus on Java server development. Research algorithm data structure, enterprise search, approval and other business modules. Light host player."
   },
   "skills":{
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "wbg_name":"Mobile Work",
+    "wbg_desc": "Mobile integrated office platform, I am mainly responsible for the approval module, search module, I also assisted in the development of the im module, the hrm module, and maintained several other modules."
   },
   "career":{
     "university": "Dalian University Of Technology",

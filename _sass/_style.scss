@@ -1430,7 +1430,7 @@ code {
 }
 
 .navy-bg {
-  background-color: #3385FF;
+  background-color: #ff696e;
   color: #fff;
 }
 
@@ -2355,16 +2355,16 @@ body {
 
 .landing-page {
   span.navy {
-    color: #3385FF;
+    color: #ff696e;
   }
   p.text-color {
     color: #676a6c;
   }
   a.navy-link {
-    color: #3385FF;
+    color: #ff696e;
     text-decoration: none;
     &:hover {
-      color: #3385FF;
+      color: #ff696e;
     }
   }
   section p {
@@ -2380,7 +2380,7 @@ body {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #3385FF;
+    border-bottom: 2px solid #ff696e;
   }
   .navbar-wrapper {
     position: fixed;
@@ -2424,16 +2424,16 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #3385FF;
+        border-top: 6px solid #ff696e;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #3385FF;
+          border-top: 6px solid #ff696e;
         }
       }
       li > a {
         &:focus, &:hover {
-          color: #3385FF;
+          color: #ff696e;
           background: inherit;
         }
       }
@@ -2448,14 +2448,14 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #3385FF;
+        background: #ff696e;
         color: #fff;
       }
       color: #fff;
       height: auto;
       display: block;
       font-size: 14px;
-      background: #3385FF;
+      background: #ff696e;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
@@ -2465,7 +2465,7 @@ body {
   .navbar-scroll.navbar-default .nav li a {
     color: #676a6c;
     &:hover {
-      color: #3385FF;
+      color: #ff696e;
     }
   }
   .navbar-wrapper .navbar.navbar-scroll {
@@ -2600,7 +2600,7 @@ body {
   }
   .features {
     small {
-      color: #3385FF;
+      color: #ff696e;
     }
     h2 {
       font-size: 18px;
@@ -2608,12 +2608,12 @@ body {
     }
   }
   .features-icon {
-    color: #3385FF;
+    color: #ff696e;
     font-size: 40px;
   }
   .navy-section {
     margin-top: 60px;
-    background: #3385FF;
+    background: #ff696e;
     color: #fff;
     padding: 20px 0;
   }
@@ -2628,7 +2628,7 @@ body {
     }
   }
   .social-icon a {
-    background: #3385FF;
+    background: #ff696e;
     color: #fff;
     padding: 4px 8px;
     height: 28px;
@@ -2636,7 +2636,7 @@ body {
     display: block;
     border-radius: 50px;
     &:hover {
-      background: #3385FF;
+      background: #ff696e;
     }
   }
   .img-small {
@@ -2681,12 +2681,12 @@ body {
     color: #fff;
   }
   .btn-primary {
-    background-color: #3385FF;
-    border-color: #3385FF;
+    background-color: #ff696e;
+    border-color: #ff696e;
     color: #FFF;
     &.active, &:active, &:focus, &:hover {
-      background-color: #3385FF;
-      border-color: #3385FF;
+      background-color: #ff696e;
+      border-color: #ff696e;
       color: #FFF;
     }
     padding: 10px 20px;
@@ -2763,7 +2763,7 @@ body {
       .nav li a {
         color: #676a6c;
         &:hover {
-          color: #3385FF;
+          color: #ff696e;
         }
       }
     }

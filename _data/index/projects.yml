@@ -2,21 +2,21 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name:
-  i18n: jalpc
-  gh_user:
-  repo:
-  img: /static/assets/img/landing/wbg_logo.png
-  desc: 移动一体化办公平台，我主要负责其中的审批模块，搜索模块，我还协助开发过im模块，hrm模块，维护过多个其他模块。
+    detail: 微办公
+    il8n: wbg_name
+  url: http://www.weibangong.com
+  img: /static/assets/img/landing/wbg_icon.ico
+  desc:
+    detail: 移动一体化办公平台，我主要负责其中的审批模块，搜索模块，我还协助开发过im模块，hrm模块，维护过多个其他模块。
+    il8n: wbg_desc
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+#- name:
+#    detail: Python
+#    il8n: python_name
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc:
+#    detail: 移动一体化办公平台，我主要负责其中的审批模块，搜索模块，我还协助开发过im模块，hrm模块，维护过多个其他模块。
+#    il8n: wbg_desc
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
